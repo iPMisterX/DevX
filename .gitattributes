@@ -1,0 +1,11 @@
+TikTok_LRD_23.5.0.ipa filter=lfs diff=lfs merge=lfs -text
+cercube_v5.3.0.ipa filter=lfs diff=lfs merge=lfs -text
+org.xbmc.kodi-ios_19.0-0_iphoneos-arm64.ipa filter=lfs diff=lfs merge=lfs -text
+uYouPlus_17.25.1_2.1.ipa filter=lfs diff=lfs merge=lfs -text
+CercubePlus_17.25.1_5.3.10.ipa filter=lfs diff=lfs merge=lfs -text
+JOOX_7.5.7501_4.0.7.ipa filter=lfs diff=lfs merge=lfs -text
+JOOX.ipa filter=lfs diff=lfs merge=lfs -text
+SpooferPro-0.241.1-0.87.ipa filter=lfs diff=lfs merge=lfs -text
+ipogo-2.6.0.ipa filter=lfs diff=lfs merge=lfs -text
+FacebookWolf_316.0.ipa filter=lfs diff=lfs merge=lfs -text
+FacebookWolf_368.0.ipa filter=lfs diff=lfs merge=lfs -text
